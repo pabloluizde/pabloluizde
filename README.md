@@ -1,4 +1,4 @@
-## Opaa eu sou o Pablo Luiz, criador de apps mobile
+## Aopaa, eu sou o Pablo Luiz, desenvolvedor de apps e design Ux/UI!!
 <div align="center">
   <a href="https://github.com/pabloluizde">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloluizde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
