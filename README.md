@@ -1,7 +1,7 @@
 ## Aopaa, eu sou o Pablo Luiz, desenvolvedor de apps e design Ux/UI!!
 <div align="center">
   <a href="https://github.com/pabloluizde">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloluizde&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloluizde&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloluizde&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
