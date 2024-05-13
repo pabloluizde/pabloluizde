@@ -1,5 +1,5 @@
 ## Hello!! I'm Pablo 🤙🏻
-  <p> I'm a Flutter developer and UX/UI designer <br> I love creating new apps and learning about the world of programming </p>
+  <p> I'm a Flutter developer and UX/UI designer who always wants to evolve further in the technology area, add and have a positive impact on the team and the project I'm involved in. <br> I love creating new apps and learning about the world of programming </p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
